@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## GitHub stats 🚀:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=n1lby73&theme=highcontrast)](https://git.io/streak-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=n1lby73)
+
+<br><br>![Github stats](https://github-readme-stats.vercel.app/api?username=n1lby73)
 
 <!--
 **n1lby73/n1lby73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
