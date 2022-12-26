@@ -9,6 +9,7 @@
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n1lby73&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=highcontrast" />
 </a>
 </p>
+
 ### Skills 🛠️
 
 <p align="center">
