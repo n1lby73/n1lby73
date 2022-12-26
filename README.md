@@ -7,12 +7,17 @@
 
 ### Skills 🛠️
 
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<!-- <p align="left">
 &nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black"></a>
-</p>
+</p> -->
 
 <!--
 **n1lby73/n1lby73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
