@@ -8,11 +8,10 @@
 ### Skills 🛠️
 
 <p align="left">
-&nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#" target="blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
-&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"></a>
+&nbsp; 
 </p>
 
 <!--
