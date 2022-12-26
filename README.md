@@ -3,10 +3,10 @@
 ## GitHub stats 🚀:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=n1lby73&theme=highcontrast)](https://git.io/streak-stats)
 
-<br><br>![Github stats](https://github-readme-stats.vercel.app/api?username=n1lby73&theme=highcontrast)
+<!-- <br><br>![Github stats](https://github-readme-stats.vercel.app/api?username=n1lby73&theme=highcontrast) -->
 <p>
 <a href="https://github.com/n1lby73/">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n1lby73&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n1lby73&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=highcontrast" />
 </a>
 </p>
 ### Skills 🛠️
