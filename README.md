@@ -10,8 +10,8 @@
 </a>
 </p>
 
-<p><a href="https://github.com/adarachel/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarachel&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=8" />
+<p><a href="https://github.com/n1lby73/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lby73&layout=compact&hide_border=false&theme=highcontrast&hide=python,pawn,assembly,pascal&langs_count=8" />
 </a></p>
 
 ### Skills 🛠️
