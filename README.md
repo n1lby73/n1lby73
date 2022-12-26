@@ -6,12 +6,12 @@
 <!-- <br><br>![Github stats](https://github-readme-stats.vercel.app/api?username=n1lby73&theme=highcontrast) -->
 <p>
 <a href="https://github.com/n1lby73/">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n1lby73&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n1lby73&count_private=true&show_icons=true&hide_border=false&langs_count=6&theme=highcontrast" />
 </a>
 </p>
 
 <p><a href="https://github.com/n1lby73/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lby73&layout=compact&hide_border=false&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lby73&layout=compact&hide_border=false&theme=highcontrast&langs_count=10" />
 </a></p>
 
 ### Skills 🛠️
