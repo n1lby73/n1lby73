@@ -11,14 +11,14 @@
 </p>
 
 <p><a href="https://github.com/n1lby73/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lby73&layout=compact&hide_border=false&theme=highcontrast&hide=pawn,assembly,pascal&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lby73&layout=compact&hide_border=false&theme=highcontrast&hide=pawn,assembly,pascal&langs_count=80" />
 </a></p>
 
 ### Skills 🛠️
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,linux,arduino,c,cpp,py,flask,postgres,emacs,vim,vscode,autocad" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,linux,arduino,c,cpp,py,flask,postgres,emacs,vim,vscode,autocad"/>
   </a>
 </p>
 
